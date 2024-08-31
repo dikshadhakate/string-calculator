@@ -1,2 +1,2 @@
 # string-calculator
-Calculate the strings
+String Calculator TDD Kata
