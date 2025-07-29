@@ -23,3 +23,9 @@ e.g Input: ("1\n2,3"), Output: 6
 1. Support different delimiters
 
 e.g Input: ("//;\n1;2"), Output: 3
+
+#step 5 -
+
+1. Calling add with a negative number will throw an exception: "negative numbers not allowed <negative_number>".
+
+e.g Input: ("1,-2,3,-5"), Output: Negative numbers are not allowed: -2,-5 
