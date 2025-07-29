@@ -17,3 +17,9 @@ e.g Input: ("1,5,7,9"), Output: 22
 1. Allow the add method to handle new lines between numbers (instead of commas). 
 
 e.g Input: ("1\n2,3"), Output: 6
+
+#step 4 -
+
+1. Support different delimiters
+
+e.g Input: ("//;\n1;2"), Output: 3
